@@ -1,0 +1,127 @@
+/*#firstDiv{*/
+/*    height: 200px;*/
+/*    width: 30%;*/
+/*    background-color: green;*/
+/*    float: left;*/
+/*}*/
+/*.last-div{*/
+/*    height: 200px;*/
+/*    width: 70%;*/
+/*    background-color: red;*/
+/*    float: left;*/
+
+/*}*/
+/*.div-one{*/
+/*    height: 200px;*/
+/*    width: 200px;*/
+/*    background-color: fuchsia;*/
+/*    float: left;*/
+/*    padding-top: 100px;*/
+/*    padding-left: 50px;*/
+/*    }*/
+/*.div-two{*/
+/*    height: 200px;*/
+/*    width: 200px;*/
+/*    background-color: darkcyan;*/
+/*    float: left;*/
+
+/*}*/
+/*.div-three{*/
+/*    height: 300px;*/
+/*    width: 100%;*/
+/*    background-color: coral ;*/
+/*    float: left;*/
+/*}*/
+
+/*.div-one{*/
+/*    height: 200px;*/
+/*    width: 20%;*/
+/*    background-color: goldenrod;*/
+/*    float: left;*/
+/*}*/
+/*.div-two{*/
+/*    height: 200px;*/
+/*    width: 80%;*/
+/*    background-color: gold;*/
+/*    float: left;*/
+/*}*/
+/*.div-three{*/
+/*    height: 50px;*/
+/*    width: 100%;*/
+/*    background-color: indianred;*/
+/*    float: left;*/
+/*}*/
+/*.div-four{*/
+/*    height: 600px;*/
+/*    width: 20%;*/
+/*    background-color: brown;*/
+/*    float: left;*/
+/*}*/
+/*.div-five{*/
+/*    height: 600px;*/
+/*    width: 80%;*/
+/*    background-color: crimson;*/
+/*    float: left;*/
+/*}*/
+/*.div-six{*/
+/*    height: 300px;*/
+/*    width: 25%;*/
+/*    background-color: cyan;*/
+/*    float: left;*/
+/*}*/
+/*.div-seven{*/
+/*    height: 300px;*/
+/*    width: 25%;*/
+/*    background-color: darkcyan;*/
+/*    float: left;*/
+/*}*/
+/*.div-eight{*/
+/*    height: 300px;*/
+/*    width: 25%;*/
+/*    background-color: darkblue;*/
+/*    float: left;*/
+/*}*/
+/*.div-nine{*/
+/*    height: 300px;*/
+/*    width: 25%;*/
+/*    background-color: darkgoldenrod;*/
+/*    float: left;*/
+/*}*/
+/*.div-ten{*/
+/*    height: 50px;*/
+/*    width: 100%;*/
+/*    background-color: crimson;*/
+/*    float: left;*/
+/*}*/
+
+.col-1{width: 8.33%}
+.col-2{width: 16.66%}
+.col-3{width: 25%}
+.col-4{width: 33.33%}
+.col-5{width: 41.66%}
+.col-6{width: 50%}
+.col-7{width: 58.33%}
+.col-8{width: 66.66%}
+.col-9{width: 75%}
+.col-10{width: 83.33%}
+.col-11{width: 91.66%}
+.col-12{width: 100%}
+
+[class*='col-']
+{
+    /*height: 50px;*/
+    float: left;
+    border: 1px solid gray;
+}
+
+.header-height{height: 200px;}
+.menu-height{height: 50px;}
+.body-height{height: 600px;}
+.big-footer-height{height: 300px;}
+.footer-height{height: 50px;}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: auto;
+}
